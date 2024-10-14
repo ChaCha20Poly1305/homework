@@ -26,7 +26,7 @@ pie
     "Dramă" : 45
 ```
 
-### Calcule
+### Alte Calcule:
 | Gen Literar             | Număr de Cărți | Procentaj        | Reprezentare       |
 | ----------------------- | -------------- | ---------------- | ------------------ |
 | Ficțiune                | 11             | 11*100/24 = 45.8 | 45.8*3.6 = 164.9°  |
